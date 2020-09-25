@@ -13,48 +13,48 @@ function Home() {
         <div className="home__row">
           <Product
             id={123}
-            title="Amazon Brand - Solimo Stainless Steel Kitchen Press/Noodles/Murukku maker"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
             price={29.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/71XZyRPY5GL._SL1500_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
             rating={5}
           />
           <Product
             id={456}
-            title="Roam Universal Premium Bike Phone Mount for Motorcycle - Bike Handlebars, Adjustable, Fits iPhone 11, X, XR, 8 | 8 Plus, 7 | 7 Plus, 6s Plus | Galaxy, S10,...."
+            title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl."
             price={39.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/713fujBvS9L._AC_SL1500_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
             rating={3}
           />
         </div>
         <div className="home__row">
           <Product
             id={789}
-            title="Mattel Star Wars The Child Plush Toy, 8-in Small Yoda Baby Figure from The Mandalorian, Collectible Stuffed Character for Movie Fans of All Ages, 3 and...."
+            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor."
             price={1.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/81dv%2B3OtWDL._AC_SL1500_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
             rating={5}
           />
           <Product
             id={512}
-            title="AmazonBasics Small Digital Alarm Clock with Nightlight and Battery Backup, LED Display."
+            title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
             price={39.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/61j17FjPhtL._AC_SL1500_.jpg"
+            image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
             rating={4}
           />
           <Product
             id={567}
-            title="Oculus Quest All-in-one VR Gaming Headset – 128GB."
+            title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
             price={39.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/71D9OsZmWxL._SL1500_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
             rating={5}
           />
         </div>
         <div className="home__row">
           <Product
             id={257}
-            title="EDOW Throw Pillow Insert, Set of 2 Down Alternative Polyester Square Form Decorative Pillow, Cushion,Sham Stuffer. (White, 18x18)."
+            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440."
             price={39.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/71p0wTseBOL._AC_SL1500_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
             rating={5}
           />
         </div>

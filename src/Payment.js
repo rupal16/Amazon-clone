@@ -46,11 +46,15 @@ function Payment() {
           card: elements.getElement(CardElement),
         },
       })
-      .then(({ paymentInrent }) => {
+      .then(({ paymentIntent }) => {
         // paymentIntent = payment confirmation
         setSucceeded(true);
         setError(null);
         setProcessing(false);
+
+        dispatch({
+          type: "EMPTY_BASKET",
+        });
 
         history.replace("/orders");
         // not using history.push() because we do not want to come back to the payment page at this point if they go back to the browser
